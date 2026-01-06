@@ -1,12 +1,12 @@
 # 🧠 Desafio DIO – Programação Orientada a Objetos (POO) em Java
 
-Este projeto foi desenvolvido como parte do desafio de **Programação Orientada a Objetos (POO)** do bootcamp da **Digital Innovation One (DIO)**, com o objetivo de aplicar os pilares da OOP — **Abstração, Encapsulamento, Herança e Polimorfismo** — por meio de um projeto prático em Java. :contentReference[oaicite:0]{index=0}
+Este projeto foi desenvolvido como parte do desafio de **Programação Orientada a Objetos (POO)** do bootcamp da **Digital Innovation One (DIO)**, com o objetivo de aplicar os pilares da OOP — **Abstração, Encapsulamento, Herança e Polimorfismo** — por meio de um projeto prático em Java.
 
 ---
 
 ## 🔎 Sobre o Projeto
 
-O desafio consiste em modelar um cenário real utilizando Java e conceitos de orientação a objetos, construindo classes e métodos que representem entidades do domínio proposto. A estrutura foi pensada para reforçar a capacidade de abstração e construir código limpo, organizado e reutilizável. :contentReference[oaicite:1]{index=1}
+O desafio consiste em modelar um cenário real utilizando Java e conceitos de orientação a objetos, construindo classes e métodos que representem entidades do domínio proposto. A estrutura foi pensada para reforçar a capacidade de abstração e construir código limpo, organizado e reutilizável.
 
 ---
 
